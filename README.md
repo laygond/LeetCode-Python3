@@ -10,7 +10,7 @@ My Solutions to the Problem Set from LeetCode in Python 3.
 [P14]: https://leetcode.com/problems/longest-common-prefix
 
 [//]: # (URL Links to My Solutions)
-[S1]: https://github.com/laygond/LeetCode-Python3/Solutions/two-sum.py
+[S1]: ./Solutions/two-sum.py
 [S7]: https://github.com/laygond/Advanced-Lane-Detection/reverse-integer.py
 [S9]: https://github.com/laygond/Traffic-Sign-Classifier/palindrome-number.py
 [S13]: https://github.com/laygond/Behavioral-Cloning/roman-to-integer.py
