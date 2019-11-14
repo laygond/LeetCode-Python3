@@ -9,6 +9,7 @@ My Solutions to the Problem Set from LeetCode in Python 3.
 [P13]: https://leetcode.com/problems/roman-to-integer
 [P14]: https://leetcode.com/problems/longest-common-prefix
 [P69]: https://leetcode.com/problems/sqrtx/
+[P70]: https://leetcode.com/problems/climbing-stairs/
 
 [//]: # (URL Links to My Solutions)
 [S1]: ./Solutions/two-sum.py
@@ -17,6 +18,7 @@ My Solutions to the Problem Set from LeetCode in Python 3.
 [S13]: ./Solutions/roman-to-integer.py
 [S14]: ./Solutions/longest-common-prefix.py
 [S69]: ./Solutions/sqrtx.py
+[S69]: ./Solutions/climbing-stairs.py
 
 
 <b>\#</b>   |	Problem               |	Solution | Difficulty | Runtime | Memory | Faster than (other Python3 submissions) 
@@ -38,7 +40,7 @@ My Solutions to the Problem Set from LeetCode in Python 3.
 66	| [Plus One][P66] | [Code][S66] |	Easy | |	|
 67	| [Add Binary][P67] | [Code][S67] |	Easy	| | |
 69	| [Sqrt(x)][P69] | [Code][S69] |	Easy	| | |
-70	| [Climbing Stairs][P70] | [Code][S70] |	Easy | | |	
+70	| [Climbing Stairs][P70] | [Code][S70] |	Easy | 28 ms | 12.7 MB | 95.23%	
 83	| [Remove Duplicates from Sorted List][P83] | [Code][S83]  |	Easy | | |	
 88	| [Merge Sorted Array][P88] | [Code][S88]  | Easy	| | |
 100	| [Same Tree][P100]  | [Code][S100] |	Easy	| | |
