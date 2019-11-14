@@ -19,8 +19,8 @@ My Solutions to the Problem Set from LeetCode in Python 3.
 
 <b>\#</b>   |	Problem               |	Solution | Difficulty | Runtime | Memory | Faster than (other Python3 submissions) 
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
-1	  | Two Sum               |          |	Easy |	5940 ms |  | 6.51% 
-7	  | Reverse Integer       | |	Easy |	24 ms |  | 99.39%
+1	  | Two Sum               |          |	Easy |	5940 ms | 13.7 MB | 6.51% 
+7	  | Reverse Integer       | |	Easy |	24 ms | 12.7 MB | 99.39%
 9	  | Palindrome Number     | |	Easy |	| |
 13	| Roman to Integer      |	| Easy |	| |
 14	| Longest Common Prefix | | Easy	| | |
