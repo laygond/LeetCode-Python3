@@ -17,8 +17,9 @@ My Solutions to the Problem Set from LeetCode in Python 3.
 [S14]: https://github.com/laygond/SelfDrivingCar/longest-common-prefix.py
 
 
-'#' |	Problem               |	Solution | Difficulty | Runtime | Memory |Faster than (other Python3 submissions) 
-1	  | Two Sum               |          |	Easy |	5940 ms |  |6.51% 
+<b>\#</b>   |	Problem               |	Solution | Difficulty | Runtime | Memory | Faster than (other Python3 submissions) 
+:---:|:---:|:---:|:---:|:---:|:---:|:---:
+1	  | Two Sum               |          |	Easy |	5940 ms |  | 6.51% 
 7	  | Reverse Integer       | |	Easy |	24 ms |  | 99.39%
 9	  | Palindrome Number     | |	Easy |	| |
 13	| Roman to Integer      |	| Easy |	| |
