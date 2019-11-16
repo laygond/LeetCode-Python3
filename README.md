@@ -10,6 +10,7 @@ My Solutions to the Problem Set from LeetCode in Python 3.
 [P14]: https://leetcode.com/problems/longest-common-prefix
 [P69]: https://leetcode.com/problems/sqrtx/
 [P70]: https://leetcode.com/problems/climbing-stairs/
+[P171]: https://leetcode.com/problems/excel-sheet-column-number
 
 [//]: # (URL Links to My Solutions)
 [S1]: ./Solutions/two-sum.py
@@ -18,7 +19,8 @@ My Solutions to the Problem Set from LeetCode in Python 3.
 [S13]: ./Solutions/roman-to-integer.py
 [S14]: ./Solutions/longest-common-prefix.py
 [S69]: ./Solutions/sqrtx.py
-[S69]: ./Solutions/climbing-stairs.py
+[S70]: ./Solutions/climbing-stairs.py
+[S171]: ./Solutions/excel-sheet-column-number.py
 
 
 <b>\#</b>   |	Problem               |	Solution | Difficulty | Runtime | Memory | Faster than (other Python3 submissions) 
@@ -49,7 +51,7 @@ My Solutions to the Problem Set from LeetCode in Python 3.
 107	| [Binary Tree Level Order Traversal II][P107] | [Code][S107] |	Easy | | |	
 108	| [Convert Sorted Array to Binary Search Tree][P108] | [Code][S108] |	Easy | | |	
 110	| [Balanced Binary Tree][P110]  | [Code][S110] | Easy	| | |
-
+171	| [Excel Sheet Column Number][P171]  | [Code][S171] | Easy	| 32 ms | 12.7 MB | 92.02% 
 
 
 # Projects
