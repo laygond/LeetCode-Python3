@@ -28,7 +28,7 @@ My Solutions to the Problem Set from LeetCode in Python 3.
 1	  | [Two Sum][P1]                | [Code][S1] |	Easy |	5940 ms | 13.7 MB | 6.51% 
 7	  | [Reverse Integer][P7]        | [Code][S7] |	Easy |	24 ms | 12.7 MB | 99.39%
 9	  | [Palindrome Number][P9]      | [Code][S9] |	Easy |	| |
-13	| [Roman to Integer][P13]      | [Code][S13] | Easy |	| |
+13	| [Roman to Integer][P13]      | [Code][S13] | Easy | 32 ms	| 12.8 MB | 99.83%
 14	| [Longest Common Prefix][P14] | [Code][S14] | Easy	| | |
 20	| [Valid Parentheses][P20]     | [Code][S20] |	Easy | | |
 21  | [Merge Two Sorted Lists][P21] | [Code][S21] | Easy	| | |
