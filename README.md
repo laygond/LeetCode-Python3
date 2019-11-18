@@ -10,6 +10,7 @@ My Solutions to the Problem Set from LeetCode in Python 3.
 [P14]: https://leetcode.com/problems/longest-common-prefix
 [P69]: https://leetcode.com/problems/sqrtx/
 [P70]: https://leetcode.com/problems/climbing-stairs/
+[P100]: https://leetcode.com/problems/same-tree
 [P171]: https://leetcode.com/problems/excel-sheet-column-number
 
 [//]: # (URL Links to My Solutions)
@@ -20,6 +21,7 @@ My Solutions to the Problem Set from LeetCode in Python 3.
 [S14]: ./Solutions/longest-common-prefix.py
 [S69]: ./Solutions/sqrtx.py
 [S70]: ./Solutions/climbing-stairs.py
+[S100]: ./Solutions/same-tree.py
 [S171]: ./Solutions/excel-sheet-column-number.py
 
 
@@ -45,7 +47,7 @@ My Solutions to the Problem Set from LeetCode in Python 3.
 70	| [Climbing Stairs][P70] | [Code][S70] |	Easy | 28 ms | 12.7 MB | 95.23%	
 83	| [Remove Duplicates from Sorted List][P83] | [Code][S83]  |	Easy | | |	
 88	| [Merge Sorted Array][P88] | [Code][S88]  | Easy	| | |
-100	| [Same Tree][P100]  | [Code][S100] |	Easy	| | |
+100	| [Same Tree][P100]  | [Code][S100] |	Easy	|  24 ms | 12.6 MB | 98.46%
 101	| [Symmetric Tree][P101] | [Code][S101] |	Easy	| | | 
 104	| [Maximum Depth of Binary Tree][P104] | [Code][S104]  | Easy | | |	
 107	| [Binary Tree Level Order Traversal II][P107] | [Code][S107] |	Easy | | |	
